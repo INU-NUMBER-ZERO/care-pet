@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/kh.bin/Desktop/project/android studio/CarePet_RE/app/src/main/res/drawable-v24/ic_baseline_home_24.xml" value="0.1" />
+        <entry key="..\:/Users/kh.bin/Desktop/project/android studio/CarePet_RE/app/src/main/res/drawable-v24/ic_baseline_keyboard_arrow_right_24.xml" value="0.1" />
+        <entry key="..\:/Users/kh.bin/Desktop/project/android studio/CarePet_RE/app/src/main/res/drawable-v24/ic_baseline_person_24.xml" value="0.193" />
+        <entry key="..\:/Users/kh.bin/Desktop/project/android studio/CarePet_RE/app/src/main/res/drawable-v24/profile_back.xml" value="0.184" />
+        <entry key="..\:/Users/kh.bin/Desktop/project/android studio/CarePet_RE/app/src/main/res/drawable-v24/profile_back1.xml" value="0.1" />
+        <entry key="..\:/Users/kh.bin/Desktop/project/android studio/CarePet_RE/app/src/main/res/drawable-v24/profile_back2.xml" value="0.271" />
+        <entry key="..\:/Users/kh.bin/Desktop/project/android studio/CarePet_RE/app/src/main/res/drawable-v24/profile_back3.xml" value="0.271" />
+        <entry key="..\:/Users/kh.bin/Desktop/project/android studio/CarePet_RE/app/src/main/res/drawable/profile_back4.xml" value="0.1155" />
+        <entry key="..\:/Users/kh.bin/Desktop/project/android studio/CarePet_RE/app/src/main/res/drawable/search_back.xml" value="0.1975" />
+        <entry key="..\:/Users/kh.bin/Desktop/project/android studio/CarePet_RE/app/src/main/res/drawable/selector.xml" value="0.1" />
+        <entry key="..\:/Users/kh.bin/Desktop/project/android studio/CarePet_RE/app/src/main/res/font/font.xml" value="0.13425925925925927" />
+        <entry key="..\:/Users/kh.bin/Desktop/project/android studio/CarePet_RE/app/src/main/res/layout/activity_main.xml" value="0.3111111111111111" />
+        <entry key="..\:/Users/kh.bin/Desktop/project/android studio/CarePet_RE/app/src/main/res/layout/fragment_a.xml" value="0.3619791666666667" />
+        <entry key="..\:/Users/kh.bin/Desktop/project/android studio/CarePet_RE/app/src/main/res/layout/fragment_b.xml" value="0.27037037037037037" />
+        <entry key="..\:/Users/kh.bin/Desktop/project/android studio/CarePet_RE/app/src/main/res/layout/fragment_c.xml" value="0.3619791666666667" />
+        <entry key="..\:/Users/kh.bin/Desktop/project/android studio/CarePet_RE/app/src/main/res/layout/listview_item.xml" value="0.32314814814814813" />
+        <entry key="..\:/Users/kh.bin/Desktop/project/android studio/CarePet_RE/app/src/main/res/menu/menu.xml" value="0.2601851851851852" />
+        <entry key="..\:/Users/kh.bin/Desktop/project/android studio/CarePet_RE/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.184" />
+        <entry key="..\:/Users/kh.bin/Desktop/project/android studio/CarePet_RE/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.184" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
